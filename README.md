@@ -6,5 +6,5 @@
 # incoming projects 
 
 forecast projects it can evolve depending ideas and new interests
-- more apis : jira, kibana, jenkins...
+- more apis : uipath, servicenow, jira, kibana, jenkins...
 
